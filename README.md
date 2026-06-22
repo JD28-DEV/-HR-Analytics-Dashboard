@@ -1,2 +1,1 @@
-# -HR-Analytics-Dashboard
-This project analyzes employee data to understand **attrition (employee turnover)** and identify key factors that impact **employee retention**.  The goal is to provide actionable insights that can help organizations improve employee satisfaction and reduce attrition.
+This project analyzes employee data to understand attrition (employee turnover) and identify key factors that impact employee retention. The goal is to provide actionable insights that can help organizations improve employee satisfaction and reduce attrition.
